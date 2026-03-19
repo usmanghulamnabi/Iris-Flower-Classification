@@ -36,8 +36,8 @@ The famous Iris dataset contains 150 samples with the following attributes:
 - ✅ **Clean Output**: User-friendly console interface
 
 ## Contact
-Dr. Muhammad Usman
+## Dr. Muhammad Usman
 
-GitHub: usmanghulamnabi
+## GitHub: usmanghulamnabi
 
-Email: usmanghulamnabi@gmail.com
+## Email: usmanghulamnabi@gmail.com
