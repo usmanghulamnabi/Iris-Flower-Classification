@@ -34,3 +34,10 @@ The famous Iris dataset contains 150 samples with the following attributes:
 - ✅ **Optimal k Selection**: Automatically finds the best k value for KNN
 - ✅ **Probability Scores**: Shows confidence level for each prediction
 - ✅ **Clean Output**: User-friendly console interface
+
+## Contact
+Dr. Muhammad Usman
+
+GitHub: usmanghulamnabi
+
+Email: usmanghulamnabi@gmail.com
